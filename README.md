@@ -1,2 +1,2 @@
 # Lsolve-otimiza-o
-Lsolve-otimização
+Lsolve-otimizaçãO
